@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8411ba9c-d61f-4703-b9c1-60c6eff76615" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Alemadmin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/kotlin/com/example/alemadmin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/android/settings_aar.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/add_products.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/admin_home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/app_messages.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/app_users.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/category/add_category.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/category/categories_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/login_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/order_history.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/orders/orders.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/privilages.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/product/add_color.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/product/add_more_images.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/product/add_product.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/product/add_size.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/product/product_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/product/products_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/product/selectColor.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/search_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/subCategory/add_sub_category.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/subCategory/subCategories_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/subCategory/subCategory_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/subCategory/update_sub_category.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/adminScreens/successful.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/constans.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/custom_widgets/rounded_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/db/category.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alemadmin/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jLacKHhQFlKXBHN0kyPgUafaIs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alemadmin" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8411ba9c-d61f-4703-b9c1-60c6eff76615" name="Default Changelist" comment="" />
+      <created>1603585903868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603585903868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1603586982962">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1603586982962" />
+    <state x="558" y="282" key="Github.ShareDialog" timestamp="1603586687916">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="558" y="282" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1603586687916" />
+    <state x="469" y="89" key="Github.UntrackedFilesDialog" timestamp="1603586716886">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="469" y="89" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1603586716886" />
+  </component>
+</project>

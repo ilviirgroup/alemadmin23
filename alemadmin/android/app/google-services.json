@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481321403702",
+    "firebase_url": "https://alemadmin-3812e.firebaseio.com",
+    "project_id": "alemadmin-3812e",
+    "storage_bucket": "alemadmin-3812e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481321403702:android:15accddec857d4b5f55f97",
+        "android_client_info": {
+          "package_name": "com.alem.alemadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481321403702-i7j5kl84iumo4mv8fv80c3jft6kt8u4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqBmXOvjVTetk1KUuCReQawQStKj9RNZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481321403702-i7j5kl84iumo4mv8fv80c3jft6kt8u4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
